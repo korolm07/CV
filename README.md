@@ -1,2 +1,2 @@
-# CV
+# HTML basics
 Web Development - learning 
